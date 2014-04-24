@@ -3,4 +3,4 @@ misc
 
 Miscellaneous files for linking
 
-![](svg/so_textalign.svg)
+![](https://raw.githubusercontent.com/helderdarocha/misc/master/svg/so_textalign.svg)
